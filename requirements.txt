@@ -1,0 +1,5 @@
+openai>=1.0.0
+elevenlabs>=1.0.0
+python-dotenv
+moviepy
+requests
